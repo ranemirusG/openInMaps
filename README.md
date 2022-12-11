@@ -1,2 +1,2 @@
 # openInMaps
-Dirty Google Apps Script to quickly open addresses from selected range in Google Maps
+Dirty GoogleApps Script to quickly open in Google Maps addresses in active range from Google Spreadsheet 
